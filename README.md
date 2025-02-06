@@ -8,7 +8,7 @@ I'm a passionate developer with a love for creating innovative solutions and lea
 
 ## Skills
 
-- **Languages:** Python, JavaScript
+- **Languages:** HTML, CSS, JS, Python
 - **Frameworks:** Django, React
 - **Other:** Unity, Godot
 
